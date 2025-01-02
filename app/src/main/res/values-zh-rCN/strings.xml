@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">USB主机通信</string>
+    <string name="view_information">查看副屏信息</string>
+    <string name="operating_secondary_screen">操作副屏</string>
+    <string name="file_transfer">文件传输</string>
+    <string name="sub_sn">Sn: %s</string>
+    <string name="sub_build_number">Build Number: %s</string>
+    <string name="sub_model">Model: %s</string>
+    <string name="sub_firmware_version">Firmware Version: %s</string>
+    <string name="sub_sp_version">SP Version: %s</string>
+    <string name="sub_info">副屏信息</string>
+    <string name="sub_operate">操作副屏</string>
+    <string name="screen_off">灭屏</string>
+    <string name="screen_on">亮屏</string>
+    <string name="reboot">重启</string>
+    <string name="sync_time">同步时间</string>
+    <string name="sub_transfer_file">传输文件</string>
+    <string name="et_hint">请输入要发送的内容</string>
+    <string name="send">发送</string>
+
+    <string name="host_prompt"><![CDATA[主机 > ]]></string>
+    <string name="device_prompt"><![CDATA[设备 > ]]></string>
+</resources>

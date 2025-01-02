@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">UsbHost</string>
+    <string name="view_information">View Information</string>
+    <string name="operating_secondary_screen">Operating Sub</string>
+    <string name="file_transfer">Data Transfer</string>
+    <string name="sub_sn">Sn: %s</string>
+    <string name="sub_build_number">Build Number: %s</string>
+    <string name="sub_model">Model: %s</string>
+    <string name="sub_firmware_version">Firmware Version: %s</string>
+    <string name="sub_sp_version">SP Version: %s</string>
+    <string name="sub_info">Sub Info</string>
+    <string name="sub_operate">Sub Operate</string>
+    <string name="screen_off">Screen Off</string>
+    <string name="screen_on">Screen On</string>
+    <string name="reboot">Reboot</string>
+    <string name="sync_time">Sync Date Time</string>
+    <string name="sub_transfer_file">Sub Transfer File</string>
+    <string name="et_hint">Please enter what you want to send</string>
+    <string name="send">Send</string>
+
+    <string name="host_prompt"><![CDATA[host > ]]></string>
+    <string name="device_prompt"><![CDATA[device > ]]></string>
+</resources>
